@@ -2,8 +2,12 @@
 
 A simple weather application built using **HTML**, **CSS**, and **JavaScript**, which fetches real-time weather data using the **OpenWeatherMap API**. The user can enter any city name to view its current temperature, humidity, wind speed, and a relevant weather icon.
 
-🔗 **Live Demo**: [Click here to check it out](https://7d99d9m8-5500.inc1.devtunnels.ms/)  
 
+---
+
+## User Interface
+
+![ui](weatherapp.png)
 
 ---
 
@@ -37,7 +41,5 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript**, 
 
 ---
 
-## User Interface
 
-![ui](weatherapp.png)
 
