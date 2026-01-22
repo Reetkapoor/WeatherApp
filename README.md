@@ -37,10 +37,7 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript**, 
 
 ---
 
-## 🌐 Deployment
+## User Interface
 
-This project has been publicly hosted.  
-You can try it live here: [Your Live URL](https://7d99d9m8-5500.inc1.devtunnels.ms/)
-
----
+![ui](weatherapp.png)
 
